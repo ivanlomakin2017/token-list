@@ -35126,6 +35126,21 @@
       "extensions": {
         "website": "https://www.turntuptikis.com/"
       }
+    },
+    {
+        "chainId": 101,
+        "address": "EWL2aMkx1j7XcjdKniVMKmuK7Vds3CgMXJv28HohVBUx",
+        "symbol": "GOOD",
+        "name": "GOOD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EWL2aMkx1j7XcjdKniVMKmuK7Vds3CgMXJv28HohVBUx/logo.png",
+        "tags": [
+          "Charity-Token",
+          "Community-Token"
+        ],
+        "extensions": {
+          "website": "https://commitgood.com"
+        }
     }
   ],
   "version": {
